@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+convierte bcd 4 bits a 7 segmentos
 
 ## How to test
 
-Explain how to use your project
+use entradas 0 a 3 y salidas 0 a 7
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+un 7 segmentos o leds
